@@ -1,4 +1,5 @@
 # HackBio-Cancer-Internship.
+Whole-Genome Sequencing Accurately Identifies resistance to Extended-Spectrum β-Lactams for Major Gram-Negative Bacterial Pathogens
 # Introduction 
 The study explores the effectiveness of whole-genome sequencing (WGS) in predicting antimicrobial resistance (AMR) compared to traditional methods such as PCR as a genotypic method and broth microdilution (BMD) as a phenotypic method. This research addresses the growing challenge of β-Lactam resistance among gram-negative bacteria, which poses a serious threat to the treatment of neutropenic cancer patients. By evaluating WGS alongside PCR and BMD, the study highlights how WGS can provide a more comprehensive understanding of resistance mechanisms, potentially leading to better-informed treatment decisions in this high-risk population. 
 # Methodology
