@@ -25,8 +25,14 @@ Integrating WGS into clinical microbiology can significantly enhance antimicrobi
 
 Shelburne, S. A., Kim, J., Munita, J. M., Sahasrabhojane, P., Shields, R. K., Press, E. G., ... & Greenberg, D. E. (2017). Whole-genome sequencing accurately identifies resistance to extended-spectrum β-lactams for major gram-negative bacterial pathogens. _Clinical Infectious Diseases_, _65_(5), 738-745.
 
- 
+**Link for Video**
 
+
+**Authors** 
+Name: Sarah Shebl, slack ID: Sarah50
+Name: Akeemat Ayinla, slack ID: That_Hakeemah
+Name: Frederick Allou, slack ID: Freddie
+Name: Duong Gia Khanh, slack ID: Khanh
  
 
  
