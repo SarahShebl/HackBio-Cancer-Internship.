@@ -17,6 +17,6 @@ Shelburne, S. A., Kim, J., Munita, J. M., Sahasrabhojane, P., Shields, R. K., Pr
 
 # Authors
 Name: Sarah Shebl, slack ID: Sarah50                                             
-Name: Akeemat Ayinla, slack ID: That_Hakeemah
+Name: Akeemat Ayinla, slack ID: That_Hakeemah                                                                             
 Name:Frederick Allou, slack ID: Freddie
 
